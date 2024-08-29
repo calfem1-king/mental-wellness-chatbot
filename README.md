@@ -1,2 +1,4 @@
 # mental-wellness-chatbot
 AI-personalized mental wellness chatbot
+Purpose: This chatbot aims to provide personalized and resources for individuals seeking mental wellness guidance thereby promoting emotional resilience and self-care.
+Goals: - Emotional Support: Offer empathetic listening and validation, helping users feel heard and understood; Resource Provision: Share relevant mental wellness resources, including articles, videos, and expert advice; Self-Care Encouragement: Encourage users to engage in self-care activities, such as exercise and creative pursuits etc.; Goal Setting: Help users set and work towards achieving personalized mental wellness goals; Mood Tracking: Allow users to monitor their emotions and moods, identifying patterns and trends; Community Connection: Facilitate connections with mental health progessionals, support groups, or online communities.
